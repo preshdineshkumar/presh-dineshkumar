@@ -5,6 +5,7 @@ plant-4ll
 
 @http
 get /
+get /presh/website
 
 @tables
 data
